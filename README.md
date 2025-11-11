@@ -6,113 +6,162 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+## WHERE CODE MEETS CREATIVITY
 
-## Hi, I'm Salma 👋
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Computer Science student** at the University of Minnesota  
-**Minneapolis, Minnesota** 📍
+### NAVIGATOR
 
-I love building **full-stack web applications** from front-end to back-end. I'm passionate about gaming, photography, and hands-on projects that blend creativity with technology.
+**Location** → Minneapolis, Minnesota  
+**Institution** → University of Minnesota  
+**Focus** → Computer Science  
+**Email** → Salhussein04@gmail.com  
 
-> *Driven by curiosity, fueled by purpose*
+**Philosophy** → Driven by curiosity, fueled by purpose
 
-<br clear="right"/>
+</td>
+<td width="50%" valign="top">
 
-<br/>
+### CURRENT MISSION
+
+Building full-stack web applications that bridge the gap between elegant design and powerful functionality. Specializing in end-to-end development where every line of code serves a purpose.
+
+Exploring intersections of technology, gaming, and visual storytelling.
+
+</td>
+</tr>
+</table>
 
 ---
 
-<br/>
-
 <div align="center">
 
-## 💙 Tech Stack
-
-<br/>
-
-### Languages
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
-
-<br/>
-
-### Web Technologies
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-<br/>
-
-### Databases & Design Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## TECHNICAL ARSENAL
 
 </div>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
----
+**CORE LANGUAGES**
+
+```
+→ C
+→ C#
+→ Java
+→ Python
+→ JavaScript
+→ OCaml
+```
+
+</td>
+<td width="33%" valign="top">
+
+**WEB STACK**
+
+```
+→ HTML5
+→ CSS3
+→ Next.js
+→ Node.js
+→ .NET
+→ React
+```
+
+</td>
+<td width="33%" valign="top">
+
+**TOOLS & DATA**
+
+```
+→ MongoDB
+→ Figma
+→ Git
+→ REST APIs
+→ Responsive Design
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-## 🌊 What I Do
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
-<br/>
+---
 
-**💻 Full-Stack Development**  
-Crafting seamless experiences from database to user interface
+## EXPERTISE AREAS
 
-**🎨 Creative Technology**  
-Where art meets code - building products that are both beautiful and functional
+<table>
+<tr>
+<td width="25%" align="center">
 
-**🎮 Gaming & User Engagement**  
-Understanding what makes digital experiences engaging and memorable
+**FULL-STACK DEVELOPMENT**
 
-**📷 Visual Storytelling**  
-Bringing design thinking into every project I build
+End-to-end application architecture from database design to user interface
 
-**🚀 Entrepreneurial Mindset**  
-Turning ideas into real solutions that make a difference
+</td>
+<td width="25%" align="center">
 
-<br/>
+**CREATIVE TECHNOLOGY**
+
+Merging technical precision with artistic vision
+
+</td>
+<td width="25%" align="center">
+
+**USER EXPERIENCE**
+
+Understanding engagement through gaming and interactive design
+
+</td>
+<td width="25%" align="center">
+
+**VISUAL STORYTELLING**
+
+Photography and design principles applied to digital products
+
+</td>
+</tr>
+</table>
 
 ---
 
-<br/>
-
 <div align="center">
 
-## 💙 Let's Connect
-
-<br/>
+## CONNECT
 
 <a href="https://linkedin.com/in/salmahusseinn">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/salma-hussein">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:Salhussein04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-**Building tech to help people live better lives** ✨
+**Building tech to help people live better lives**
 
 <br/>
 
