@@ -50,8 +50,6 @@ Exploring the intersection of technology and visual storytelling.
 - Java  
 - Python  
 - JavaScript  
-- OCaml  
-- SQL  
 
 </td>
 <td width="33%" valign="top">
@@ -63,19 +61,21 @@ Exploring the intersection of technology and visual storytelling.
 - Node.js  
 - .NET  
 - React  
-- Tailwind CSS  
 
 </td>
 <td width="33%" valign="top">
 
 **Tools & Data**  
 - MongoDB  
+- OCaml  
+- SQL  
 - Figma  
 - Git  
 - REST APIs  
-- Responsive Design  
 - VS Code  
 - Postman  
+- Tailwind CSS  
+- Responsive Design  
 
 </td>
 </tr>
