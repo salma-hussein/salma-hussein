@@ -6,162 +6,134 @@
 
 <br/>
 
-## WHERE CODE MEETS CREATIVITY
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 👋 Hi, I'm Salma
 
-### NAVIGATOR
+```yaml
+🎓 Computer Science @ University of Minnesota
+📍 Based in Minneapolis, Minnesota
+💻 Full-Stack Developer | Front-End to Back-End
+🎨 Passionate About: Gaming • Photography • Creative Tech
+```
 
-**Location** → Minneapolis, Minnesota  
-**Institution** → University of Minnesota  
-**Focus** → Computer Science  
-**Email** → Salhussein04@gmail.com  
+### Building Tomorrow's Web
+I craft **full-stack web applications** that merge elegant design with powerful functionality. Every project is an opportunity to blend **creativity with code** and create experiences that matter.
 
-**Philosophy** → Driven by curiosity, fueled by purpose
+> 💙 *Driven by curiosity, fueled by purpose*
 
-</td>
-<td width="50%" valign="top">
+<br clear="right"/>
 
-### CURRENT MISSION
-
-Building full-stack web applications that bridge the gap between elegant design and powerful functionality. Specializing in end-to-end development where every line of code serves a purpose.
-
-Exploring intersections of technology, gaming, and visual storytelling.
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
-
-<div align="center">
-
-## TECHNICAL ARSENAL
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**CORE LANGUAGES**
-
-```
-→ C
-→ C#
-→ Java
-→ Python
-→ JavaScript
-→ OCaml
-```
-
-</td>
-<td width="33%" valign="top">
-
-**WEB STACK**
-
-```
-→ HTML5
-→ CSS3
-→ Next.js
-→ Node.js
-→ .NET
-→ React
-```
-
-</td>
-<td width="33%" valign="top">
-
-**TOOLS & DATA**
-
-```
-→ MongoDB
-→ Figma
-→ Git
-→ REST APIs
-→ Responsive Design
-```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+## 💙 Tech Stack
+
+<br/>
+
+### Languages
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+
+<br/>
+
+### Web Technologies
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+<br/>
+
+### Databases & Design Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
 
-## EXPERTISE AREAS
+<br/>
+
+<div align="center">
+
+## 🌊 What I Do
+
+</div>
+
+<br/>
+
+**💻 Full-Stack Development**  
+Crafting seamless experiences from database to user interface
+
+**🎨 Creative Technology**  
+Where art meets code - building products that are both beautiful and functional
+
+**🎮 Gaming & User Engagement**  
+Understanding what makes digital experiences engaging and memorable
+
+**📷 Visual Storytelling**  
+Bringing design thinking into every project I build
+
+**🚀 Entrepreneurial Mindset**  
+Turning ideas into real solutions that make a difference
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 💙 Let's Connect
+
+<br/>
+
+<a href="https://linkedin.com/in/salmahusseinn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/salma-hussein">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:Salhussein04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td>
 
-**FULL-STACK DEVELOPMENT**
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" align="left" style="margin-right: 15px"/>
 
-End-to-end application architecture from database design to user interface
-
-</td>
-<td width="25%" align="center">
-
-**CREATIVE TECHNOLOGY**
-
-Merging technical precision with artistic vision
-
-</td>
-<td width="25%" align="center">
-
-**USER EXPERIENCE**
-
-Understanding engagement through gaming and interactive design
-
-</td>
-<td width="25%" align="center">
-
-**VISUAL STORYTELLING**
-
-Photography and design principles applied to digital products
+### 💭 
+*"The best way to predict the future is to create it."*  
+— Alan Kay
 
 </td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## CONNECT
-
-<a href="https://linkedin.com/in/salmahusseinn">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/salma-hussein">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:Salhussein04@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-**Building tech to help people live better lives**
+</div>
 
 <br/>
 
