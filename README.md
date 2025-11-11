@@ -12,14 +12,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### NAVIGATOR
+### ABOUT ME
 
 **Location** → Minneapolis, Minnesota  
 **Institution** → University of Minnesota  
-**Focus** → Computer Science  
+**Focus** → Software Engineering
 **Email** → Salhussein04@gmail.com  
-
-**Philosophy** → Driven by curiosity, fueled by purpose
 
 </td>
 <td width="50%" valign="top">
@@ -28,7 +26,7 @@
 
 Building full-stack web applications that bridge the gap between elegant design and powerful functionality. Specializing in end-to-end development where every line of code serves a purpose.
 
-Exploring intersections of technology, gaming, and visual storytelling.
+Exploring the intersection of technology and visual storytelling.
 
 </td>
 </tr>
@@ -38,7 +36,7 @@ Exploring intersections of technology, gaming, and visual storytelling.
 
 <div align="center">
 
-## TECHNICAL ARSENAL
+## TECHNICAL SKILLS
 
 </div>
 
@@ -48,41 +46,48 @@ Exploring intersections of technology, gaming, and visual storytelling.
 
 **CORE LANGUAGES**
 
-```
 → C
 → C#
 → Java
 → Python
 → JavaScript
 → OCaml
-```
+→ SQL
+
+php-template
+Copy code
 
 </td>
 <td width="33%" valign="top">
 
 **WEB STACK**
 
-```
 → HTML5
 → CSS3
 → Next.js
 → Node.js
 → .NET
 → React
-```
+→ Tailwind CSS
+
+php-template
+Copy code
 
 </td>
 <td width="33%" valign="top">
 
 **TOOLS & DATA**
 
-```
 → MongoDB
 → Figma
 → Git
 → REST APIs
 → Responsive Design
-```
+→ VS Code
+→ Postman
+
+markdown
+Copy code
 
 </td>
 </tr>
@@ -103,6 +108,11 @@ Exploring intersections of technology, gaming, and visual storytelling.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
