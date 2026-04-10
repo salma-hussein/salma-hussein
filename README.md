@@ -36,47 +36,6 @@ Exploring the intersection of technology and visual storytelling.
 
 <div align="center">
 
-**Core Languages**  
-- C  
-- C#  
-- Java  
-- Python  
-- JavaScript  
-
-</td>
-<td width="33%" valign="top">
-
-**Web Stack**  
-- HTML5  
-- CSS3  
-- Next.js  
-- Node.js  
-- .NET  
-- React  
-
-</td>
-<td width="33%" valign="top">
-
-**Tools & Data**  
-- MongoDB  
-- OCaml  
-- SQL  
-- Figma  
-- Git  
-- REST APIs  
-- VS Code  
-- Postman  
-- Tailwind CSS  
-- Responsive Design  
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
 <!-- Bigger tech badges -->
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="40"/>
