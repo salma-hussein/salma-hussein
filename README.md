@@ -36,14 +36,6 @@ Exploring the intersection of technology and visual storytelling.
 
 <div align="center">
 
-### **Technical Skills**
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
 **Core Languages**  
 - C  
 - C#  
